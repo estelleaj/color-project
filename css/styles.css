@@ -1,0 +1,21 @@
+body    {
+    background-color: black;
+}
+
+#msg {
+    max-width: 400px;
+    min-height: 400px;
+    background-color: #ffffff;
+    margin: auto;
+}
+
+button  {
+    position: relative;
+    top: 80px;
+}
+
+
+#message  {
+    margin-top: 80px;
+}  
+
